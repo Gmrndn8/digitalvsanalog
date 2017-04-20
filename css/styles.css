@@ -1,0 +1,18 @@
+.digital p {
+  background-color: green;
+}
+.analog p {
+  background-color: grey;
+}
+.digital p a {
+  font-weight: bold;
+}
+.analog p a {
+  font-style: italic;
+}
+.digital {
+  border: 20px blue;
+}
+.analog {
+  border: 20px red;
+}
